@@ -1,8 +1,11 @@
-import React from 'react'
+import { Box } from '@mui/material';
+import React from 'react';
+
+import Canvas from "../../components/Canvas";
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <Canvas />
   )
 }
 
