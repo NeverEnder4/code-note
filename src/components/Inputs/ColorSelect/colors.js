@@ -6,7 +6,7 @@ const colors = [
   },
   {
     label: "Grey",
-    value: "#666666",
+    value: "#CCCCCC",
     key: "grey"
   },
   {
